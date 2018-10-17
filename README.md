@@ -1,4 +1,4 @@
-# Punto de venta Movistar
+# Danielle Collection
 
 Integrante:
 1. Ana Karina Gutierrez Flores
@@ -6,4 +6,4 @@ Integrante:
 1. Francisco Avalos Murillo
 1. Martin Alejandro Herrera Lopez
 
-Creacion de punto de venta para sucursal de Movistar Moroleon para un equipo de computo con sistema operativo Windows  
+Creacion de una pagina Web responsiva para que la tienda Danielle Collection pueda exhibir sus productos y realizar ventas en linea
